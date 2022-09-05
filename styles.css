@@ -1,0 +1,63 @@
+body {
+  text-align: center;
+  background-color: #444444;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DA0037;
+  margin-top: 50px;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 2px #EDEDED;
+}
+
+.image {
+  width: 15%;
+  color: #A5F1E9;
+  border-radius: 100%;
+  margin: 20px 0;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.9;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #A5C9CA;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #B91646;
+  /* text-shadow: 3px 0 #C2FFD9; */
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  font-size: 0.7rem;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
